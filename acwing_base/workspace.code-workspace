@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "algorithmTest",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"fileheader.Author": "shuxiaoning",
+		"fileheader.LastModifiedBy": "shuxiaoning",
+		"fileheader.tpl": "/* * @Author: {shuxiaoning}  * @Date: {createTime}  * @Last Modified by:   {lastModifiedBy}  * @Last Modified time: {updateTime}  */"
+	}
+}
