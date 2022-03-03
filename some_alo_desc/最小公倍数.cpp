@@ -9,5 +9,3 @@ int lcm(int a, int b) {
     return a / d * b;
 }
 
-
-
