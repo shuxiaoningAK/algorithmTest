@@ -1,0 +1,1 @@
+{"name":"Local: quick_sort","url":"e:\\algorithmTest\\algorithmTest\\acwing_baseCourse\\quick_sort.cpp","tests":[{"id":1658153132934,"input":"5\n2 1 3 4 5","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\algorithmTest\\algorithmTest\\acwing_baseCourse\\quick_sort.cpp","group":"local","local":true}

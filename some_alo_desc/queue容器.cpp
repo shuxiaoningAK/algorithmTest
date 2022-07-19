@@ -18,7 +18,7 @@
 
 
 
-// 优先  priority_queue
+// 优先  priority_queue(默认是大根堆)
 
 /*
     top();
@@ -29,6 +29,7 @@
 
     empty();
     
+    定义小根堆: priority_queue<int, vector<int>,greater<int>>
                    
 
 */
